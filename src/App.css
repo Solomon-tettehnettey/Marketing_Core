@@ -24,14 +24,7 @@ body {
   padding: 80px 20px;
 }
 
-.hero h1 {
-  font-size: 48px;
-  margin-bottom: 20px;
-  background: linear-gradient(90deg, #38bdf8, #6366f1);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
+.hero h1 { font-size: 48px; margin-bottom: 20px; background: linear-gradient(90deg, #38bdf8, #6366f1); /* Standard property for background clipping */ background-clip: text; /* Webkit prefix for Chrome/Safari */ -webkit-background-clip: text; /* Make text transparent to show the gradient */ -webkit-text-fill-color: transparent; color: transparent; /* fallback for non-webkit browsers */ }
 .tagline {
   font-size: 20px;
   color: #cbd5e1;

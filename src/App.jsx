@@ -189,7 +189,15 @@ function App() {
               className="btn donation"
             >
               Donate
+
+               
+
             </a>
+
+              <p className="disclaimer">
+              No refunds
+              </p>
+              
           </div>
         </section>
 
@@ -215,9 +223,9 @@ function App() {
               </a>
             </div>
 
-            <p className="disclaimer">
-              This is a voluntary submission. No refunds.
-            </p>
+            
+            
+          
           </div>
         </section>
       </div>
