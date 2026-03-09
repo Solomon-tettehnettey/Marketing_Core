@@ -1,5 +1,6 @@
 import "./App.css";
 
+
 function App() {
   return (
     <div>
@@ -9,7 +10,7 @@ function App() {
         <section className="hero">
           <h1>Marketing Core</h1>
           <p className="tagline">
-            AI-Powered Marketing For Smart Business Owners
+            Everything You Need To Market Your Business — In One Dashboard
           </p>
           <p className="sub">
             Plan. Create. Analyze. Grow. — All in one intelligent platform.
@@ -42,29 +43,28 @@ function App() {
 
           <div className="grid">
             <div className="card">
-              <h3>1️⃣ Connect Your Account</h3>
+              <h3>1️⃣ Connect Your Platform</h3>
               <p>
-                Link Instagram, Facebook and other platforms in one place.
+                Link Instagram, Facebook and other platforms so all your marketing activity lives in one place.
               </p>
             </div>
 
             <div className="card">
-              <h3>2️⃣ Choose a Template</h3>
+              <h3>2️⃣ Create Content Faster</h3>
               <p>
-                Select ready made promotional templates tailored for businesses.
+                Use ready-made promotional templates designed to help businesses create professional posts quickly.
               </p>
             </div>
 
             <div className="card">
-              <h3>3️⃣ Publish Everywhere & Track Performance</h3>
+              <h3>3️⃣ Publish Everywhere </h3>
               <p>
-                Publish across all platforms instantly and monitor engagement,
-                reach, and growth from one intelligent dashboard.
+                Post across multiple platforms at once and track engagement, reach, and growth from a single dashboard.
               </p>
             </div>
 
             <div className="card">
-              <h3>4️⃣ AI Analysis & Optimization</h3>
+              <h3>4️⃣ AI Optimization</h3>
               <p>
                 Marketing Core analyzes your content performance and provides
                 intelligent suggestions to improve engagement and increase sales.

@@ -2,7 +2,7 @@
   "name": "marketing-core",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://solomon-tettehnettey.github.io/Marketing_Core",
+  "homepage": "https://github.com/Solomon-tettehnettey/Markting_Core.git/",
   "type": "module",
   "scripts": {
     "dev": "vite",
